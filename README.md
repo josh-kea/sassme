@@ -11,3 +11,5 @@ check the documentation:
 https://sass-lang.com/guide  
 https://tutorialzine.com/2016/01/learn-sass-in-15-minutes  
 - Place .scss files in a seperate folder
+
+JOSH KAP!
